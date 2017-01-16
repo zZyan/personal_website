@@ -2481,7 +2481,7 @@
 	#header {
 		background-color: #1f1815;
 		background-attachment: cover;
-		background-image: url("images/overlay.png"), url("../../images/bg1.jpg");
+		background-image: url("../../images/overlay.png"), url("../../images/bg1.jpg");
 		background-position:center;
 		background-repeat: no-repeat;
 		background-size: cover;
